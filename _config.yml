@@ -8,7 +8,7 @@
 # Site settings
 title: Massively
 subtitle: "by HTML5 UP"
-email: youremailaddress@gmail.com
+email: retsel.gonzalez@upr.edu
 description: The Jekyll version of the Massively theme by HTML5 UP.
 #baseurl: "/massively-jekyll-theme" # the subpath of your site, e.g. /blog
 baseurl: "" # the subpath of your site, e.g. /blog
