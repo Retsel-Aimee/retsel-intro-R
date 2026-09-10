@@ -1,0 +1,35 @@
+---
+title: "Introduction to R for Biologists"
+author: "Retsel Aimée González-Valentín"
+date: "`r format(Sys.time(), '%Y-%b-%d, %I:%M %p')`"
+output: html_document
+---
+<img src="NYCpicture.JPG" width="335" height="452"/>
+
+    
+```{css, echo=FALSE}
+@import url("https://fonts.googleapis.com/css?family=Merriweather:300,700,300italic,700italic|Source+Sans+Pro:900");
+
+body {
+  font-family: "Merriweather", serif;
+  font-weight: 300;
+  line-height: 1.75;
+  text-align: justify;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Source Sans Pro", Helvetica, sans-serif;
+  font-weight: 900;
+  letter-spacing: 0.075em;
+  text-transform: uppercase;
+}
+
+h1 { font-size: 2.5rem; line-height: 1.15; }
+
+a {
+  color: inherit;
+  border-bottom: dotted 1px;
+  text-decoration: none;
+}
+a:hover { border-bottom-color: transparent; }
+```

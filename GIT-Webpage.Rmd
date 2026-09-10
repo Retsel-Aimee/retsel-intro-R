@@ -1,0 +1,9 @@
+---
+title: "Retsel Aimée González-Valentín"
+subtittle: "Git-Intro-Webpage"
+author: "MSc Ecology & Wildlife Conservation student"
+date: "2026-09-10"
+output: html_document
+---
+
+<img src="NYCpicture.JPG" width="335" height="452"/>
